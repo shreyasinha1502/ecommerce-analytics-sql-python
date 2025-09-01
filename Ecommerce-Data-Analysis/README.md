@@ -30,11 +30,6 @@ Tools Used
 - Seaborn
 - Jupyter Notebook
 
-File Included
-
-`Ecommerce_SQL_Python_Project_by_Aniruddha_Raut.ipynb`
-
-This file contains all SQL queries, output tables, and visualizations.
 
 
 
