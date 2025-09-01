@@ -36,9 +36,5 @@ File Included
 
 This file contains all SQL queries, output tables, and visualizations.
 
-About Me
 
-Hi, I’m **Aniruddha Raut**, a Data Analytics learner exploring SQL, Python & visualization tools on real datasets.  
-Connect with me on LinkedIn
-https://www.linkedin.com/in/aniruddha-raut-7a68a8257/
 
