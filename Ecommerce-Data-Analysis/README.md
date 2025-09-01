@@ -1,4 +1,4 @@
-Ecommerce-Dataset-Python-SQL-Project-by-Aniruddha-Raut
+Ecommerce-Dataset-Python-SQL-Project
 
 This project uses an Ecommerce dataset to analyze key business insights using SQL queries and Python data visualization.
 
